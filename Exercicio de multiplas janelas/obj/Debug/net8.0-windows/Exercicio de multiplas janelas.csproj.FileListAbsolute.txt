@@ -1,0 +1,35 @@
+C:\Users\givanio.melo\Documents\Exercicio de multiplas janelas\Exercicio de multiplas janelas\bin\Debug\net8.0-windows\Exercicio de multiplas janelas.exe
+C:\Users\givanio.melo\Documents\Exercicio de multiplas janelas\Exercicio de multiplas janelas\bin\Debug\net8.0-windows\Exercicio de multiplas janelas.deps.json
+C:\Users\givanio.melo\Documents\Exercicio de multiplas janelas\Exercicio de multiplas janelas\bin\Debug\net8.0-windows\Exercicio de multiplas janelas.runtimeconfig.json
+C:\Users\givanio.melo\Documents\Exercicio de multiplas janelas\Exercicio de multiplas janelas\bin\Debug\net8.0-windows\Exercicio de multiplas janelas.dll
+C:\Users\givanio.melo\Documents\Exercicio de multiplas janelas\Exercicio de multiplas janelas\bin\Debug\net8.0-windows\Exercicio de multiplas janelas.pdb
+C:\Users\givanio.melo\Documents\Exercicio de multiplas janelas\Exercicio de multiplas janelas\obj\Debug\net8.0-windows\Exercicio_de_multiplas_janelas.Form1.resources
+C:\Users\givanio.melo\Documents\Exercicio de multiplas janelas\Exercicio de multiplas janelas\obj\Debug\net8.0-windows\Exercicio de multiplas janelas.csproj.GenerateResource.cache
+C:\Users\givanio.melo\Documents\Exercicio de multiplas janelas\Exercicio de multiplas janelas\obj\Debug\net8.0-windows\Exercicio de multiplas janelas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\givanio.melo\Documents\Exercicio de multiplas janelas\Exercicio de multiplas janelas\obj\Debug\net8.0-windows\Exercicio de multiplas janelas.AssemblyInfoInputs.cache
+C:\Users\givanio.melo\Documents\Exercicio de multiplas janelas\Exercicio de multiplas janelas\obj\Debug\net8.0-windows\Exercicio de multiplas janelas.AssemblyInfo.cs
+C:\Users\givanio.melo\Documents\Exercicio de multiplas janelas\Exercicio de multiplas janelas\obj\Debug\net8.0-windows\Exercicio de multiplas janelas.csproj.CoreCompileInputs.cache
+C:\Users\givanio.melo\Documents\Exercicio de multiplas janelas\Exercicio de multiplas janelas\obj\Debug\net8.0-windows\Exercicio de multiplas janelas.dll
+C:\Users\givanio.melo\Documents\Exercicio de multiplas janelas\Exercicio de multiplas janelas\obj\Debug\net8.0-windows\refint\Exercicio de multiplas janelas.dll
+C:\Users\givanio.melo\Documents\Exercicio de multiplas janelas\Exercicio de multiplas janelas\obj\Debug\net8.0-windows\Exercicio de multiplas janelas.pdb
+C:\Users\givanio.melo\Documents\Exercicio de multiplas janelas\Exercicio de multiplas janelas\obj\Debug\net8.0-windows\Exercicio de multiplas janelas.genruntimeconfig.cache
+C:\Users\givanio.melo\Documents\Exercicio de multiplas janelas\Exercicio de multiplas janelas\obj\Debug\net8.0-windows\ref\Exercicio de multiplas janelas.dll
+C:\Users\givanio.melo\Documents\Exercicio de multiplas janelas\Exercicio de multiplas janelas\obj\Debug\net8.0-windows\Exercicio_de_multiplas_janelas.FormCriarProduto.resources
+C:\Users\aluno.cad\Desktop\Ademilson\exercicio de multiplas janelas\Exercicio de multiplas janelas\bin\Debug\net8.0-windows\Exercicio de multiplas janelas.exe
+C:\Users\aluno.cad\Desktop\Ademilson\exercicio de multiplas janelas\Exercicio de multiplas janelas\bin\Debug\net8.0-windows\Exercicio de multiplas janelas.deps.json
+C:\Users\aluno.cad\Desktop\Ademilson\exercicio de multiplas janelas\Exercicio de multiplas janelas\bin\Debug\net8.0-windows\Exercicio de multiplas janelas.runtimeconfig.json
+C:\Users\aluno.cad\Desktop\Ademilson\exercicio de multiplas janelas\Exercicio de multiplas janelas\bin\Debug\net8.0-windows\Exercicio de multiplas janelas.dll
+C:\Users\aluno.cad\Desktop\Ademilson\exercicio de multiplas janelas\Exercicio de multiplas janelas\bin\Debug\net8.0-windows\Exercicio de multiplas janelas.pdb
+C:\Users\aluno.cad\Desktop\Ademilson\exercicio de multiplas janelas\Exercicio de multiplas janelas\obj\Debug\net8.0-windows\Exercicio_de_multiplas_janelas.Form1.resources
+C:\Users\aluno.cad\Desktop\Ademilson\exercicio de multiplas janelas\Exercicio de multiplas janelas\obj\Debug\net8.0-windows\Exercicio_de_multiplas_janelas.FormCriarProduto.resources
+C:\Users\aluno.cad\Desktop\Ademilson\exercicio de multiplas janelas\Exercicio de multiplas janelas\obj\Debug\net8.0-windows\Exercicio de multiplas janelas.csproj.GenerateResource.cache
+C:\Users\aluno.cad\Desktop\Ademilson\exercicio de multiplas janelas\Exercicio de multiplas janelas\obj\Debug\net8.0-windows\Exercicio de multiplas janelas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno.cad\Desktop\Ademilson\exercicio de multiplas janelas\Exercicio de multiplas janelas\obj\Debug\net8.0-windows\Exercicio de multiplas janelas.AssemblyInfoInputs.cache
+C:\Users\aluno.cad\Desktop\Ademilson\exercicio de multiplas janelas\Exercicio de multiplas janelas\obj\Debug\net8.0-windows\Exercicio de multiplas janelas.AssemblyInfo.cs
+C:\Users\aluno.cad\Desktop\Ademilson\exercicio de multiplas janelas\Exercicio de multiplas janelas\obj\Debug\net8.0-windows\Exercicio de multiplas janelas.csproj.CoreCompileInputs.cache
+C:\Users\aluno.cad\Desktop\Ademilson\exercicio de multiplas janelas\Exercicio de multiplas janelas\obj\Debug\net8.0-windows\Exercicio de multiplas janelas.dll
+C:\Users\aluno.cad\Desktop\Ademilson\exercicio de multiplas janelas\Exercicio de multiplas janelas\obj\Debug\net8.0-windows\refint\Exercicio de multiplas janelas.dll
+C:\Users\aluno.cad\Desktop\Ademilson\exercicio de multiplas janelas\Exercicio de multiplas janelas\obj\Debug\net8.0-windows\Exercicio de multiplas janelas.pdb
+C:\Users\aluno.cad\Desktop\Ademilson\exercicio de multiplas janelas\Exercicio de multiplas janelas\obj\Debug\net8.0-windows\Exercicio de multiplas janelas.genruntimeconfig.cache
+C:\Users\aluno.cad\Desktop\Ademilson\exercicio de multiplas janelas\Exercicio de multiplas janelas\obj\Debug\net8.0-windows\ref\Exercicio de multiplas janelas.dll
+C:\Users\aluno.cad\Desktop\Ademilson\exercicio de multiplas janelas\Exercicio de multiplas janelas\obj\Debug\net8.0-windows\Exercicio_de_multiplas_janelas.CriarClienteForm2.resources
